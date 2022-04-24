@@ -1,6 +1,6 @@
-Branch: start
+Branch: final
 
-The files here are copied from https://github.com/Yecats/GameDevTutorials/tree/master/tutorials/Unity/Get-started-with-behavior-trees/tutorials/starterProject
+The files here are copied from https://github.com/Yecats/GameDevTutorials/tree/master/tutorials/Unity/Get-started-with-behavior-trees/tutorials/finalProject
 
 -------------
 
